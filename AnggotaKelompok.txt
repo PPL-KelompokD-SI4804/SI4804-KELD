@@ -1,4 +1,5 @@
 1. Galang
+    NIM : 102022400248
 2. Gina
 3. Aufa
 4. Imanuel
